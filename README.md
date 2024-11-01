@@ -32,22 +32,22 @@ The project is organized into two main folders:
 ## Installation
 
 ### 1. Clone the Repository
-```
-bash
+
+```bash
 git clone https://github.com/kjsingh03/runes-bridge.git
 ```
 
 ### 2. Navigate to Project Directory
-```
-bash
+
+```bash
 cd runes-bridge
 ```
 
 ### 3. Client Setup
 
 Navigate to the client folder and install dependencies:
-```
-bash
+
+```bash
 cd client
 npm install
 ```
@@ -55,8 +55,8 @@ npm install
 ### 4. Server Setup
 
 Navigate to the server folder and install dependencies:
-```
-bash
+
+```bash
 cd ../server
 npm install
 ```
