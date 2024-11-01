@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.transaction-hist::-webkit-scrollbar{
+  display: none;
+}
+
 .wallet-btn {
   display: flex;
   padding: 14px 52px 14px 47px;
