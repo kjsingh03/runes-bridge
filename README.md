@@ -85,15 +85,15 @@ PORT=8000
 
 #### Client
 Start the client development server:
-```
-bash
+
+```bash
 npm run dev
 ```
 
 #### Server
 Start the server:
-```
-bash
+
+```bash
 npm start
 ```
 
